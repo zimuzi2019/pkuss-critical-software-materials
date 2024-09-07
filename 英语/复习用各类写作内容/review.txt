@@ -1,0 +1,30 @@
+总结：
+
+Email privacy is protected by law in the US, but the law was relaxed after the 911 terrorist attack. FBI monitors all email messages that pass through an ISP instead of those that belong to suspected terrorists only. Employers scan employee emails if the latter is informed, or when business needs exist, or out of concern for industrial espionage. Schools supervise student emails for the reason that they need to protect students and themselves from any harm related to the email content. So regard email as public and not private communication.  
+
+
+
+
+
+
+
+摘要改正：
+
+The Design and Realization of the a ??? Chatbot in the Banking Service
+
+硕士论文摘要
+Customer service chatbots adopted by many banks in China to accommodate their increasing number of users and business consultations generally have two problems. One is lacking context understanding and the other is not being able to answer questions accurately during the chat process. This study analyzes the current research status of chatbots at home and abroad and the characteristics of the chat language in the banking industry. Based on comparing the current key technologies of chatbots such as ……, a new bank customer service chatbot system with an overall framework and functional requirements is designed. The system mainly includes module design such as context understanding, intelligent reply, question and answer library update, management and maintenance. A statement similarity algorithm is also introduced to improve the accuracy of question matching. Experiments have verified that the above method is feasible and effective and that this new chatbot is 20% more accurate in answering questions than the other existing chatbots. At the same time, the system provides a friendly interaction and maintenance interface to enhance the user experience. (175 words)
+
+
+用第三人称的期刊投稿摘要
+Customer service chatbots adopted by many banks in China to accommodate their increasing number of users and business consultations generally have two problems. One is lacking context understanding; the other is not being able to answer questions accurately during the chat process. This study designs and realizes a new bank customer service chatbot system with an overall framework and functional requirements. It mainly includes module design such as context understanding, intelligent reply, question and answer library update, management and maintenance. A statement similarity algorithm is also introduced to improve the accuracy of question matching. Experiments have verified the feasibility and effectiveness of the above method and show that this new chatbot
+
+
+@所有人 关于摘要主语用I，还是we，还是this paper/research的问题，现做如下补充：
+课上讲的是nature的发刊要求，又以Hassabis多人作者文章为例，因此用we就合适。而硕博论文和某些学术论文是也只能是单一作者，确实无法完全避免this paper或this research的说法，因此也还有用。但是每句话主语都是this paper或者this research开头也是不对的，这样就浪费了句子的叙事主体，等于句子没有针对。
+解决办法就是，先判断文章作者是什么情况，单一作者还是多人作者。前者不能用I做主语，为避免人称造成的麻烦，可少量用this paper/research（比如实在避免不了就用一次），其它用被动。对多人作者文章，大方用we，但也不至于句句用we，也得用被动。同时考虑读起来是否顺畅流利。毕竟，语言不光表意，也是声音的组合。
+我对单一作者论文，还是不主张用we，毕竟这不是通用做法。
+
+
+
+中式英语、句子合并和技术写作、定义见 ppt 和 docx 文件
