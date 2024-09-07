@@ -1,0 +1,10 @@
+# DS Store
+.DS_Store
+*/DS_Store
+
+# pycache
+code/__pycache__/*
+__pycache__/*
+
+# logs
+*log*
