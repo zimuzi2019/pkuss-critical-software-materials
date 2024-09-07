@@ -1,0 +1,29 @@
+import re
+from collections import Counter
+
+# 用于提取id、状态、IP地址和目标邮箱的正则表达式
+log_pattern = r'@(\d+) ([a-z]+ \d+:|delivery \d+: success: (\d+\.\d+\.\d+\.\d+)|delivery \d+: failure: .* to remote ([\w\.-]+@[\w\.-]+))'
+
+# 打开邮件日志文件
+with open('maillog.txt', 'r') as file:
+    # 读取文件内容
+    log_content = file.read()
+
+# 使用正则表达式查找匹配的内容
+matches = re.findall(log_pattern, log_content)
+
+# 初始化字典来存储目标邮箱和错误计数
+error_counts = Counter()
+for _, _, ip, target in matches:
+    if ip:
+        # 如果有IP地址，表示是成功的交付记录，跳过
+        continue
+    elif target:
+        # 如果有目标邮箱，增加目标邮箱的错误计数
+        error_counts[target] += 1
+
+# 找到出现错误最多的目标邮箱
+most_common_error_target, most_common_error_count = error_counts.most_common(1)[0]
+
+print(f"最常见的错误目标邮箱: {most_common_error_target}")
+print(f"错误次数: {most_common_error_count}")

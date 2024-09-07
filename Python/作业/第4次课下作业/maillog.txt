@@ -1,0 +1,846 @@
+@400000004faa61e21e8e3e24 starting delivery 1820: msg 850901 to remote sunkang@189.cn
+@400000004faa61e21e8e420c status: local 0/10 remote 8/20
+@400000004faa61e31d36d02c new msg 850803
+@400000004faa61e31d36d7fc info msg 850803: bytes 440 from <dataguru@phx1-ss-2-lb.cnet.com> qp 18772 uid 0
+@400000004faa61e31e92d5ec starting delivery 1821: msg 850803 to remote KINGDA160@189.cn
+@400000004faa61e31e92d9d4 status: local 0/10 remote 9/20
+@400000004faa61e41e96a67c new msg 850942
+@400000004faa61e41e96ae4c info msg 850942: bytes 443 from <dataguru@phx1-ss-2-lb.cnet.com> qp 18783 uid 0
+@400000004faa61e4202db19c starting delivery 1822: msg 850942 to remote 20065357@cqu.edu.cn
+@400000004faa61e4202db584 status: local 0/10 remote 10/20
+@400000004faa61e437bb920c delivery 1801: success: 202.206.240.88_accepted_message./Remote_host_said:_250_OK/
+@400000004faa61e437bb95f4 status: local 0/10 remote 9/20
+@400000004faa61e437bb99dc end msg 851010
+@400000004faa61e51f7a99f4 new msg 851010
+@400000004faa61e51f7aa1c4 info msg 851010: bytes 438 from <dataguru@phx1-ss-2-lb.cnet.com> qp 18794 uid 0
+@400000004faa61e5201db7c4 starting delivery 1823: msg 851010 to remote hot@zju.edu.cn
+@400000004faa61e5201dbbac status: local 0/10 remote 10/20
+@400000004faa61e536864a44 delivery 1820: success: 121.14.53.136_accepted_message./Remote_host_said:_250_Ok:_queued_as_43A2222C006/
+@400000004faa61e536865214 status: local 0/10 remote 9/20
+@400000004faa61e536865214 end msg 850901
+@400000004faa61e608105a9c delivery 1808: success: 211.83.32.132_accepted_message./Remote_host_said:_250_OK/
+@400000004faa61e60810626c status: local 0/10 remote 8/20
+@400000004faa61e608106654 end msg 851005
+@400000004faa61e61ed086e4 new msg 850901
+@400000004faa61e61ed08eb4 info msg 850901: bytes 443 from <dataguru@phx1-ss-2-lb.cnet.com> qp 18805 uid 0
+@400000004faa61e621225684 starting delivery 1824: msg 850901 to remote yukliang@swu.edu.cn
+@400000004faa61e621225a6c status: local 0/10 remote 9/20
+@400000004faa61e62c9c99d4 delivery 1822: success: 222.178.10.26_accepted_message./Remote_host_said:_250_OK:has_queued/
+@400000004faa61e62c9c9dbc status: local 0/10 remote 8/20
+@400000004faa61e62c9c9dbc end msg 850942
+@400000004faa61e62d32b39c delivery 1821: success: 121.14.53.136_accepted_message./Remote_host_said:_250_Ok:_queued_as_AE317430004/
+@400000004faa61e62d32bb6c status: local 0/10 remote 7/20
+@400000004faa61e62d32bb6c end msg 850803
+@400000004faa61e70a73c60c delivery 1823: deferral: 210.32.157.174_failed_after_I_sent_the_message./Remote_host_said:_450_Requested_action_not_taken:_AQAAf5CrT+qlYqpPamRUAA--.7571S2,_please_try_again/
+@400000004faa61e70a73d1c4 status: local 0/10 remote 6/20
+@400000004faa61e71ff5bd64 new msg 850803
+@400000004faa61e71ff5c534 info msg 850803: bytes 440 from <dataguru@phx1-ss-2-lb.cnet.com> qp 18816 uid 0
+@400000004faa61e721d867e4 starting delivery 1825: msg 850803 to remote hufq@nimte.ac.cn
+@400000004faa61e721d86fb4 status: local 0/10 remote 7/20
+@400000004faa61e721d86fb4 delivery 1819: failure: 202.118.251.57_does_not_like_recipient./Remote_host_said:_550_Mailbox_unavailable_<b1063710427@ssmail.hit.edu.cn>/Giving_up_on_202.118.251.57./
+@400000004faa61e721d87784 status: local 0/10 remote 6/20
+@400000004faa61e723ea540c bounce msg 851009 qp 18819
+@400000004faa61e723ea57f4 end msg 851009
+@400000004faa61e723ec4bf4 new msg 851006
+@400000004faa61e723ec4fdc info msg 851006: bytes 1134 from <> qp 18819 uid 508
+@400000004faa61e725ed4c14 starting delivery 1826: msg 851006 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa61e725ed4ffc status: local 1/10 remote 6/20
+@400000004faa61e726e01084 delivery 1826: success: did_1+0+0/
+@400000004faa61e726e0146c status: local 0/10 remote 6/20
+@400000004faa61e726e0146c end msg 851006
+@400000004faa61e80f8e817c delivery 1824: success: 222.178.188.145_accepted_message./Remote_host_said:_250_OK:has_queued/
+@400000004faa61e80f8e8d34 status: local 0/10 remote 5/20
+@400000004faa61e80f8e8d34 end msg 850901
+@400000004faa61e8208c8ec4 new msg 850901
+@400000004faa61e8208c9694 info msg 850901: bytes 449 from <dataguru@phx1-ss-2-lb.cnet.com> qp 18831 uid 0
+@400000004faa61e82180c64c starting delivery 1827: msg 850901 to remote 07281019@mail.bjtu.edu.cn
+@400000004faa61e82180ca34 status: local 0/10 remote 6/20
+@400000004faa61e831ce8e94 delivery 1825: success: 159.226.251.12_accepted_message./Remote_host_said:_250_Mail_OK_queued_as_SACowJBrnwvfYapPAC0xAQ--.54299S2/
+@400000004faa61e831ce9664 status: local 0/10 remote 5/20
+@400000004faa61e831ce9664 end msg 850803
+@400000004faa61e9212e29dc new msg 850803
+@400000004faa61e9212e31ac info msg 850803: bytes 439 from <dataguru@phx1-ss-2-lb.cnet.com> qp 18842 uid 0
+@400000004faa61e924673c9c starting delivery 1828: msg 850803 to remote 5161718@5d6d.cn
+@400000004faa61e92467446c status: local 0/10 remote 6/20
+@400000004faa61e924674854 delivery 1827: success: 218.249.29.198_accepted_message./Remote_host_said:_250_OK:has_queued/
+@400000004faa61e924674c3c status: local 0/10 remote 5/20
+@400000004faa61e924674c3c end msg 850901
+@400000004faa61ea21a91a84 new msg 850901
+@400000004faa61ea21a92254 info msg 850901: bytes 439 from <dataguru@phx1-ss-2-lb.cnet.com> qp 18852 uid 0
+@400000004faa61ea226f6054 starting delivery 1829: msg 850901 to remote mla@pzhs.gov.cn
+@400000004faa61ea226f643c status: local 0/10 remote 6/20
+@400000004faa61eb222ac9bc new msg 850942
+@400000004faa61eb222ad18c info msg 850942: bytes 442 from <dataguru@phx1-ss-2-lb.cnet.com> qp 18863 uid 0
+@400000004faa61eb237942bc starting delivery 1830: msg 850942 to remote 13390879990@189.cn
+@400000004faa61eb23794a8c status: local 0/10 remote 7/20
+@400000004faa61eb2d173874 delivery 1828: success: 65.54.188.78_accepted_message./Remote_host_said:_250__<20120509122359.18840.qmail@phx1-ss-2-lb.cnet.com>_Queued_mail_for_delivery/
+@400000004faa61eb2d173c5c status: local 0/10 remote 6/20
+@400000004faa61eb2d174044 end msg 850803
+@400000004faa61ec22555074 new msg 850803
+@400000004faa61ec22555844 info msg 850803: bytes 442 from <dataguru@phx1-ss-2-lb.cnet.com> qp 18874 uid 0
+@400000004faa61ec241cbe4c starting delivery 1831: msg 850803 to remote 9880528@nau.edu.cn
+@400000004faa61ec241cc234 status: local 0/10 remote 7/20
+@400000004faa61ed1d1ad41c delivery 1831: failure: 210.28.92.5_does_not_like_recipient./Remote_host_said:_550_mailbox_9880528@nau.edu.cn_unavailable_(__________)/Giving_up_on_210.28.92.5./
+@400000004faa61ed1d1adfd4 status: local 0/10 remote 6/20
+@400000004faa61ed1eb85394 bounce msg 850803 qp 18882
+@400000004faa61ed1eb8577c end msg 850803
+@400000004faa61ed1eba7e44 new msg 851006
+@400000004faa61ed1eba7e44 info msg 851006: bytes 1106 from <> qp 18882 uid 508
+@400000004faa61ed20245714 starting delivery 1832: msg 851006 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa61ed20245afc status: local 1/10 remote 6/20
+@400000004faa61ed20908a4c delivery 1832: success: did_1+0+0/
+@400000004faa61ed20908e34 status: local 0/10 remote 6/20
+@400000004faa61ed2090921c end msg 851006
+@400000004faa61ed23a3b5ec new msg 850803
+@400000004faa61ed23a3b9d4 info msg 850803: bytes 444 from <dataguru@phx1-ss-2-lb.cnet.com> qp 18888 uid 0
+@400000004faa61ed2507743c starting delivery 1833: msg 850803 to remote lenghong@cqit.edu.cn
+@400000004faa61ed25077824 status: local 0/10 remote 7/20
+@400000004faa61ee2516414c new msg 850961
+@400000004faa61ee2516491c info msg 850961: bytes 444 from <dataguru@phx1-ss-2-lb.cnet.com> qp 18899 uid 0
+@400000004faa61ee2587911c starting delivery 1834: msg 850961 to remote wujianfeng@ceopen.cn
+@400000004faa61ee25879504 status: local 0/10 remote 8/20
+@400000004faa61ee2ef1a97c delivery 1829: deferral: CNAME_lookup_failed_temporarily._(#4.4.3)/
+@400000004faa61ee2ef1ad64 status: local 0/10 remote 7/20
+@400000004faa61ef2433b14c new msg 851011
+@400000004faa61ef2433b91c info msg 851011: bytes 443 from <dataguru@phx1-ss-2-lb.cnet.com> qp 18910 uid 0
+@400000004faa61ef24e72a9c starting delivery 1835: msg 851011 to remote jdzhang@sdau.edu.cn
+@400000004faa61ef24e72e84 status: local 0/10 remote 8/20
+@400000004faa61ef2e19b454 delivery 1834: failure: 123.100.5.253_does_not_like_recipient./Remote_host_said:_550_no_such_user_here_(umail_mta)/Giving_up_on_123.100.5.253./
+@400000004faa61ef2e19bc24 status: local 0/10 remote 7/20
+@400000004faa61ef2efbb7b4 bounce msg 850961 qp 18913
+@400000004faa61ef2efbbb9c end msg 850961
+@400000004faa61ef2efe24cc new msg 851013
+@400000004faa61ef2efe28b4 info msg 851013: bytes 1092 from <> qp 18913 uid 508
+@400000004faa61ef309ba444 starting delivery 1836: msg 851013 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa61ef309ba82c status: local 1/10 remote 7/20
+@400000004faa61ef31b1bbac delivery 1836: success: did_1+0+0/
+@400000004faa61ef31b1bf94 status: local 0/10 remote 7/20
+@400000004faa61ef31b1bf94 end msg 851013
+@400000004faa61f02552d134 new msg 850961
+@400000004faa61f02552dcec info msg 850961: bytes 438 from <dataguru@phx1-ss-2-lb.cnet.com> qp 18924 uid 0
+@400000004faa61f025cc336c starting delivery 1837: msg 850961 to remote ykesong@lmu.cn
+@400000004faa61f025cc3b3c status: local 0/10 remote 8/20
+@400000004faa61f112130594 delivery 1835: success: 202.194.133.2_accepted_message./Remote_host_said:_250_OK:has_queued/
+@400000004faa61f112130d64 status: local 0/10 remote 7/20
+@400000004faa61f11213114c end msg 851011
+@400000004faa61f1258be67c new msg 851011
+@400000004faa61f1258bf234 info msg 851011: bytes 445 from <dataguru@phx1-ss-2-lb.cnet.com> qp 18936 uid 0
+@400000004faa61f1260c45c4 starting delivery 1838: msg 851011 to remote wangzhk@mail.sy.ln.cn
+@400000004faa61f1260c4d94 status: local 0/10 remote 8/20
+@400000004faa61f12bfe61ec delivery 1833: failure: 202.202.145.26_does_not_like_recipient./Remote_host_said:_550_mailbox_lenghong@cqit.edu.cn_unavailable_(__________)/Giving_up_on_202.202.145.26./
+@400000004faa61f12bfe69bc status: local 0/10 remote 7/20
+@400000004faa61f12cec05dc bounce msg 850803 qp 18938
+@400000004faa61f12cec09c4 end msg 850803
+@400000004faa61f12cedf9dc new msg 851006
+@400000004faa61f12cedfdc4 info msg 851006: bytes 1118 from <> qp 18938 uid 508
+@400000004faa61f12f89fd94 starting delivery 1839: msg 851006 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa61f12f8a017c status: local 1/10 remote 7/20
+@400000004faa61f1301574b4 delivery 1839: success: did_1+0+0/
+@400000004faa61f13015789c status: local 0/10 remote 7/20
+@400000004faa61f13015789c end msg 851006
+@400000004faa61f21c67cffc delivery 1838: failure: Connected_to_202.96.74.68_but_sender_was_rejected./Remote_host_said:_554_Connection_refused(mx)._MAIL_FROM_[dataguru@phx1-ss-2-lb.cnet.com]_mismatches_client_IP_[61.55.167.172]./
+@400000004faa61f21c67df9c status: local 0/10 remote 6/20
+@400000004faa61f21c67df9c starting delivery 1840: msg 850407 to remote zjning@flink.net.cn
+@400000004faa61f21c67e384 status: local 0/10 remote 7/20
+@400000004faa61f21f005914 bounce msg 851011 qp 18941
+@400000004faa61f21f005cfc end msg 851011
+@400000004faa61f21f18599c new msg 850991
+@400000004faa61f21f185d84 info msg 850991: bytes 1153 from <> qp 18941 uid 508
+@400000004faa61f220b3ba1c starting delivery 1841: msg 850991 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa61f220b3be04 status: local 1/10 remote 7/20
+@400000004faa61f2217e8fe4 delivery 1841: success: did_1+0+0/
+@400000004faa61f2217e93cc status: local 0/10 remote 7/20
+@400000004faa61f2217e93cc end msg 850991
+@400000004faa61f225858d7c new msg 850803
+@400000004faa61f225859164 info msg 850803: bytes 448 from <dataguru@phx1-ss-2-lb.cnet.com> qp 18954 uid 0
+@400000004faa61f228059524 starting delivery 1842: msg 850803 to remote zhangjunqi@tongji.edu.cn
+@400000004faa61f22805990c status: local 0/10 remote 8/20
+@400000004faa61f3268e71fc new msg 850991
+@400000004faa61f3268e79cc info msg 850991: bytes 445 from <dataguru@phx1-ss-2-lb.cnet.com> qp 18965 uid 0
+@400000004faa61f32919acd4 starting delivery 1843: msg 850991 to remote ychen17@mail.yf.sh.cn
+@400000004faa61f32919b4a4 status: local 0/10 remote 9/20
+@400000004faa61f4278f5f6c new msg 851012
+@400000004faa61f4278f673c info msg 851012: bytes 442 from <dataguru@phx1-ss-2-lb.cnet.com> qp 18975 uid 0
+@400000004faa61f4294fc094 starting delivery 1844: msg 850399 to remote wangd@mail.hunu.edu.cn
+@400000004faa61f4294fc47c status: local 0/10 remote 10/20
+@400000004faa61f4294fc864 starting delivery 1845: msg 851012 to remote 18970780130@189.cn
+@400000004faa61f4294fcc4c status: local 0/10 remote 11/20
+@400000004faa61f51e12b90c delivery 1830: success: 121.14.53.136_accepted_message./Remote_host_said:_250_Ok:_queued_as_40F1A124022/
+@400000004faa61f51e12c0dc status: local 0/10 remote 10/20
+@400000004faa61f51e12c4c4 starting delivery 1846: msg 850523 to remote shen@kalsoft.online.sh.cn
+@400000004faa61f51e12c8ac status: local 0/10 remote 11/20
+@400000004faa61f51e12c8ac end msg 850942
+@400000004faa61f5294694ec new msg 850942
+@400000004faa61f529469cbc info msg 850942: bytes 438 from <dataguru@phx1-ss-2-lb.cnet.com> qp 18988 uid 0
+@400000004faa61f52afaec0c starting delivery 1847: msg 850942 to remote xhg@now.net.cn
+@400000004faa61f52afaeff4 status: local 0/10 remote 12/20
+@400000004faa61f62dc0c6b4 delivery 1847: failure: 202.105.179.53_does_not_like_recipient./Remote_host_said:_553_________(User_(xhg@now.net.cn)_is_forbid)/Giving_up_on_202.105.179.53./
+@400000004faa61f62dc0d26c status: local 0/10 remote 11/20
+@400000004faa61f70404195c bounce msg 850942 qp 19001
+@400000004faa61f704041d44 end msg 850942
+@400000004faa61f70406ec04 delivery 1844: deferral: CNAME_lookup_failed_temporarily._(#4.4.3)/
+@400000004faa61f70406efec status: local 0/10 remote 10/20
+@400000004faa61f70406f3d4 new msg 851019
+@400000004faa61f70406f3d4 info msg 851019: bytes 1094 from <> qp 19001 uid 508
+@400000004faa61f705fbb33c starting delivery 1848: msg 851019 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa61f705fbbb0c status: local 1/10 remote 10/20
+@400000004faa61f705fbbb0c new msg 851007
+@400000004faa61f705fbbef4 info msg 851007: bytes 444 from <dataguru@phx1-ss-2-lb.cnet.com> qp 18994 uid 0
+@400000004faa61f7088dfac4 starting delivery 1849: msg 851007 to remote 07281070@bjtu.edu.cn
+@400000004faa61f7088dfeac status: local 1/10 remote 11/20
+@400000004faa61f7088dfeac delivery 1848: success: did_1+0+0/
+@400000004faa61f7088e0294 status: local 0/10 remote 11/20
+@400000004faa61f7088e0294 end msg 851019
+@400000004faa61f71af50dec delivery 1774: deferral: Sorry,_I_wasn't_able_to_establish_an_SMTP_connection._(#4.4.1)/
+@400000004faa61f71af511d4 status: local 0/10 remote 10/20
+@400000004faa61f71ef8c3ac delivery 1842: deferral: 202.120.189.252_failed_after_I_sent_the_message./Remote_host_said:_450_Requested_action_not_taken:_AwAAAKBbZwPrYapPkoQWAA--.11419S2,_please_try_again/
+@400000004faa61f71ef8cb7c status: local 0/10 remote 9/20
+@400000004faa61f72a3d221c delivery 1849: success: 218.249.29.198_accepted_message./Remote_host_said:_250_OK:has_queued/
+@400000004faa61f72a3d29ec status: local 0/10 remote 8/20
+@400000004faa61f72a3d2dd4 end msg 851007
+@400000004faa61f72c5261d4 new msg 850942
+@400000004faa61f72c5261d4 info msg 850942: bytes 441 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19008 uid 0
+@400000004faa61f72e66ab74 starting delivery 1850: msg 850942 to remote guoyd@bitc.edu.cn
+@400000004faa61f72e66af5c status: local 0/10 remote 9/20
+@400000004faa61f805b68c1c delivery 1845: success: 121.14.53.136_accepted_message./Remote_host_said:_250_Ok:_queued_as_AC485124023/
+@400000004faa61f805b69004 status: local 0/10 remote 8/20
+@400000004faa61f805b693ec end msg 851012
+@400000004faa61f82a97a214 new msg 851007
+@400000004faa61f82a97a9e4 info msg 851007: bytes 447 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19019 uid 0
+@400000004faa61f82d355b4c starting delivery 1851: msg 851007 to remote zhengli@mail.zwu.edu.cn
+@400000004faa61f82d35631c status: local 0/10 remote 9/20
+@400000004faa61f92c66822c new msg 851012
+@400000004faa61f92c6689fc info msg 851012: bytes 441 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19031 uid 0
+@400000004faa61f92e5cb894 starting delivery 1852: msg 850536 to remote huibo@online.sh.cn
+@400000004faa61f92e5cc064 status: local 0/10 remote 10/20
+@400000004faa61f92e5cc064 starting delivery 1853: msg 851012 to remote hebh@jsciq.gov.cn
+@400000004faa61f92e5cc44c status: local 0/10 remote 11/20
+@400000004faa61f938f513dc delivery 1846: deferral: CNAME_lookup_failed_temporarily._(#4.4.3)/
+@400000004faa61f938f51f94 status: local 0/10 remote 10/20
+@400000004faa61fa11e07444 delivery 1850: success: 114.251.211.1_accepted_message./Remote_host_said:_250_Mail_OK_queued_as_fwD__qBrVCHxYapPgIQeAA--.54628S2/
+@400000004faa61fa11e07c14 status: local 0/10 remote 9/20
+@400000004faa61fa11e07ffc end msg 850942
+@400000004faa61fa2cdc98a4 new msg 850942
+@400000004faa61fa2cdc9c8c info msg 850942: bytes 442 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19042 uid 0
+@400000004faa61fa2fddb344 starting delivery 1854: msg 850942 to remote wan_long@vobile.cn
+@400000004faa61fa2fddbb14 status: local 0/10 remote 10/20
+@400000004faa61fb066cd42c delivery 1851: success: 61.153.150.5_accepted_message./Remote_host_said:_250_OK:has_queued/
+@400000004faa61fb066cd814 status: local 0/10 remote 9/20
+@400000004faa61fb066cdbfc starting delivery 1855: msg 850385 to remote skyvense@online.sh.cn
+@400000004faa61fb066cdfe4 status: local 0/10 remote 10/20
+@400000004faa61fb066cdfe4 end msg 851007
+@400000004faa61fb2d343a3c new msg 851007
+@400000004faa61fb2d34420c info msg 851007: bytes 450 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19054 uid 0
+@400000004faa61fb2fa32ae4 starting delivery 1856: msg 851007 to remote 200618130@mail.imnu.edu.cn
+@400000004faa61fb2fa32ecc status: local 0/10 remote 11/20
+@400000004faa61fc000f4434 delivery 1854: failure: 218.108.90.52_does_not_like_recipient./Remote_host_said:_550_5.1.1_<wan_long@vobile.cn>:_Recipient_address_rejected:_User_unknown_in_virtual_mailbox_table/Giving_up_on_218.108.90.52./
+@400000004faa61fc000f4c04 status: local 0/10 remote 10/20
+@400000004faa61fc01e38f04 bounce msg 850942 qp 19062
+@400000004faa61fc01e392ec end msg 850942
+@400000004faa61fc01e603ec new msg 851022
+@400000004faa61fc01e607d4 info msg 851022: bytes 1152 from <> qp 19062 uid 508
+@400000004faa61fc028f5f64 starting delivery 1857: msg 851022 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa61fc028f6734 status: local 1/10 remote 10/20
+@400000004faa61fc033d662c delivery 1857: success: did_1+0+0/
+@400000004faa61fc033d6a14 status: local 0/10 remote 10/20
+@400000004faa61fc033d6dfc end msg 851022
+@400000004faa61fc1e86cfcc delivery 1698: deferral: Connected_to_59.64.164.18_but_sender_was_rejected./Remote_host_said:_452_MI:SFK_http://www.ipmotor.com/smtp_err.htm/
+@400000004faa61fc1e86d79c status: local 0/10 remote 9/20
+@400000004faa61fc2db16d04 new msg 850942
+@400000004faa61fc2db174d4 info msg 850942: bytes 444 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19068 uid 0
+@400000004faa61fc2f55fd14 starting delivery 1858: msg 850942 to remote jinwugang@zju.edu.cn
+@400000004faa61fc2f5600fc status: local 0/10 remote 10/20
+@400000004faa61fd0978faec delivery 1754: deferral: Connected_to_59.64.164.18_but_sender_was_rejected./Remote_host_said:_452_MI:SFK_http://www.ipmotor.com/smtp_err.htm/
+@400000004faa61fd097902bc status: local 0/10 remote 9/20
+@400000004faa61fd2e0a8984 new msg 851009
+@400000004faa61fd2e0a9154 info msg 851009: bytes 443 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19079 uid 0
+@400000004faa61fd2ec3bbac starting delivery 1859: msg 851009 to remote shju@home.ipe.ac.cn
+@400000004faa61fd2ec3bf94 status: local 0/10 remote 10/20
+@400000004faa61fd391baeac delivery 1858: deferral: 210.32.157.174_failed_after_I_sent_the_message./Remote_host_said:_450_Requested_action_not_taken:_AQAAf5D7H+i8YqpPtmRUAA--.3921S2,_please_try_again/
+@400000004faa61fd391bb67c status: local 0/10 remote 9/20
+@400000004faa61fe028c001c delivery 1843: failure: 222.66.170.212_does_not_like_recipient./Remote_host_said:_554_Service_unavailable;_Client_host_[phx1-ss-2-lb.cnet.com]_blocked_using_Barracuda_Reputation;_http://www.barracudanetworks.com/reputation/?r=1&ip=61.55.167.172/Giving_up_on_222.66.170.212./
+@400000004faa61fe028c0bd4 status: local 0/10 remote 8/20
+@400000004faa61fe0374e14c bounce msg 850991 qp 19087
+@400000004faa61fe0374e534 end msg 850991
+@400000004faa61fe03775e04 new msg 851018
+@400000004faa61fe037761ec info msg 851018: bytes 1225 from <> qp 19087 uid 508
+@400000004faa61fe060cf534 starting delivery 1860: msg 851018 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa61fe060cfd04 status: local 1/10 remote 8/20
+@400000004faa61fe06fcb81c delivery 1860: success: did_1+0+0/
+@400000004faa61fe06fcbc04 status: local 0/10 remote 8/20
+@400000004faa61fe06fcbc04 end msg 851018
+@400000004faa61fe2f0b5f84 new msg 850991
+@400000004faa61fe2f0b6754 info msg 850991: bytes 441 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19093 uid 0
+@400000004faa61fe30942264 starting delivery 1861: msg 850991 to remote liuhang@kayait.cn
+@400000004faa61fe3094264c status: local 0/10 remote 9/20
+@400000004faa61fe376a1a94 delivery 1859: success: 159.226.251.12_accepted_message./Remote_host_said:_250_Mail_OK_queued_as_UwCowJC7LRT1YapPABHsLw--.23766S2/
+@400000004faa61fe376a2264 status: local 0/10 remote 8/20
+@400000004faa61fe376a2264 end msg 851009
+@400000004faa61ff078b6b5c delivery 1852: deferral: Connected_to_61.129.163.90_but_my_name_was_rejected./Remote_host_said:_421_Cannot_reverse_lookup/
+@400000004faa61ff078b732c status: local 0/10 remote 7/20
+@400000004faa61ff078b7714 starting delivery 1862: msg 850550 to remote zhihong@public.hr.hl.cn
+@400000004faa61ff078b7714 status: local 0/10 remote 8/20
+@400000004faa61ff30290c54 new msg 851009
+@400000004faa61ff30291424 info msg 851009: bytes 450 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19105 uid 0
+@400000004faa61ff31548c34 starting delivery 1863: msg 851009 to remote 020733@smail.tongji.edu.cn
+@400000004faa61ff3154901c status: local 0/10 remote 9/20
+@400000004faa620011f58e9c delivery 1861: success: 58.68.254.101_accepted_message./Remote_host_said:_250_OK_S66487671Ab2EIMYU_message_accepted/
+@400000004faa620011f5966c status: local 0/10 remote 8/20
+@400000004faa620011f59a54 end msg 850991
+@400000004faa620030e17b2c new msg 850991
+@400000004faa620030e182fc info msg 850991: bytes 448 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19116 uid 0
+@400000004faa62003239894c starting delivery 1864: msg 850991 to remote yang.jin@mail.bitsoft.cn
+@400000004faa62003239911c status: local 0/10 remote 9/20
+@400000004faa62010a75d17c delivery 1864: failure: Sorry,_I_couldn't_find_any_host_named_mail.bitsoft.cn._(#5.1.2)/
+@400000004faa62010a75d94c status: local 0/10 remote 8/20
+@400000004faa62010b5f471c bounce msg 850991 qp 19124
+@400000004faa62010b5f471c end msg 850991
+@400000004faa62010b618554 new msg 851025
+@400000004faa62010b61bfec info msg 851025: bytes 1045 from <> qp 19124 uid 508
+@400000004faa62010cb136d4 starting delivery 1865: msg 851025 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa62010cb17554 status: local 1/10 remote 8/20
+@400000004faa62010dbf5344 delivery 1865: success: did_1+0+0/
+@400000004faa62010dbf572c status: local 0/10 remote 8/20
+@400000004faa62010dbf5b14 end msg 851025
+@400000004faa620111ad42cc delivery 1855: deferral: Connected_to_61.129.163.90_but_my_name_was_rejected./Remote_host_said:_421_Cannot_reverse_lookup/
+@400000004faa620111ad4a9c status: local 0/10 remote 7/20
+@400000004faa62012ffd648c new msg 850991
+@400000004faa62012ffd6c5c info msg 850991: bytes 451 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19131 uid 0
+@400000004faa6201308983a4 starting delivery 1866: msg 850991 to remote gjw03@mails.tsinghua.edu.cn
+@400000004faa62013089878c status: local 0/10 remote 8/20
+@400000004faa620232a6aacc new msg 851017
+@400000004faa620232a6b29c info msg 851017: bytes 446 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19142 uid 0
+@400000004faa620233bc29dc starting delivery 1867: msg 851017 to remote chuanli247@sjtu.edu.cn
+@400000004faa620233bc31ac status: local 0/10 remote 9/20
+@400000004faa6203156e426c delivery 1862: deferral: CNAME_lookup_failed_temporarily._(#4.4.3)/
+@400000004faa6203156e4a3c status: local 0/10 remote 8/20
+@400000004faa620332b09dac new msg 851028
+@400000004faa620332b0a57c info msg 851028: bytes 451 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19152 uid 0
+@400000004faa62033374727c starting delivery 1868: msg 851028 to remote zhaoliang02@tsinghua.org.cn
+@400000004faa620333747a4c status: local 0/10 remote 9/20
+@400000004faa6204076c3ee4 delivery 1868: success: 211.151.65.104_accepted_message./Remote_host_said:_250_Mail_OK_queued_as_aEGX06Bb0wArXqpPJ++2Ag==.3256S2/
+@400000004faa6204076c4a9c status: local 0/10 remote 8/20
+@400000004faa6204076c4a9c starting delivery 1869: msg 850551 to remote tootzhou@online.sh.cn
+@400000004faa6204076c4e84 status: local 0/10 remote 9/20
+@400000004faa6204076c4e84 end msg 851028
+@400000004faa62041230b724 delivery 1867: failure: 202.112.26.50_does_not_like_recipient./Remote_host_said:_554_5.7.1_<chuanli247@sjtu.edu.cn>:_Recipient_address_rejected:_Policy_Rejection-_Your_server_or_your_user_is_in_our_blacklist,_You_can_send_email_to_nics@sjtu.edu.cn_for_being_removed_from_the_list./Giving_up_on_202.112.26.50./
+@400000004faa62041230c2dc status: local 0/10 remote 8/20
+@400000004faa620413242f44 bounce msg 851017 qp 19161
+@400000004faa62041324332c end msg 851017
+@400000004faa620413742fbc new msg 851030
+@400000004faa6204137433a4 info msg 851030: bytes 1262 from <> qp 19161 uid 508
+@400000004faa6204156a98ec starting delivery 1870: msg 851030 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa6204156a9cd4 status: local 1/10 remote 8/20
+@400000004faa6204167127c4 delivery 1870: success: did_1+0+0/
+@400000004faa620416712bac status: local 0/10 remote 8/20
+@400000004faa620416712f94 end msg 851030
+@400000004faa62043226ad2c new msg 851017
+@400000004faa62043226b4fc info msg 851017: bytes 452 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19167 uid 0
+@400000004faa620433ca898c starting delivery 1871: msg 851017 to remote chenxi@mails.tsinghua.edu.cn
+@400000004faa620433ca915c status: local 0/10 remote 9/20
+@400000004faa6205278370bc delivery 1869: deferral: Connected_to_61.129.163.90_but_my_name_was_rejected./Remote_host_said:_421_Cannot_reverse_lookup/
+@400000004faa62052783788c status: local 0/10 remote 8/20
+@400000004faa620534894994 new msg 851028
+@400000004faa620534895164 info msg 851028: bytes 455 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19178 uid 0
+@400000004faa620536018214 starting delivery 1872: msg 851028 to remote quzhen_01@mails.tsinghua.edu.cn
+@400000004faa6205360185fc status: local 0/10 remote 9/20
+@400000004faa620617ea8d0c delivery 1863: failure: 202.120.189.252_does_not_like_recipient./Remote_host_said:_550_User_not_found:_020733@mail.tongji.edu.cn/Giving_up_on_202.120.189.252./
+@400000004faa620617ea94dc status: local 0/10 remote 8/20
+@400000004faa62061a074abc bounce msg 851009 qp 19186
+@400000004faa62061a074abc end msg 851009
+@400000004faa62061a09ac1c new msg 851027
+@400000004faa62061a09b004 info msg 851027: bytes 1120 from <> qp 19186 uid 508
+@400000004faa62061b4cd694 starting delivery 1873: msg 851027 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa62061b4cda7c status: local 1/10 remote 8/20
+@400000004faa62061c3eb874 delivery 1873: success: did_1+0+0/
+@400000004faa62061c3ebc5c status: local 0/10 remote 8/20
+@400000004faa62061c3ebc5c end msg 851027
+@400000004faa620633a0a6e4 new msg 851009
+@400000004faa620633a0aacc info msg 851009: bytes 436 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19192 uid 0
+@400000004faa62063423a60c starting delivery 1874: msg 851009 to remote wj@avceit.cn
+@400000004faa62063423a9f4 status: local 0/10 remote 9/20
+@400000004faa620735912474 new msg 851026
+@400000004faa62073591302c info msg 851026: bytes 448 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19203 uid 0
+@400000004faa620737f98954 starting delivery 1875: msg 851026 to remote fresh@emails.bjpu.edu.cn
+@400000004faa620737f9950c status: local 0/10 remote 10/20
+@400000004faa6208360a2504 new msg 851034
+@400000004faa6208360a2cd4 info msg 851034: bytes 444 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19214 uid 0
+@400000004faa62083739812c starting delivery 1876: msg 851034 to remote yanjl133@nenu.edu.cn
+@400000004faa620837398514 status: local 0/10 remote 11/20
+@400000004faa6208373988fc delivery 1871: success: 166.111.8.45_accepted_message./Remote_host_said:_250_ok_1336566272_qp_133656627218782_(eqmail)/
+@400000004faa620837398ce4 status: local 0/10 remote 10/20
+@400000004faa620837398ce4 end msg 851017
+@400000004faa62090d60a8e4 delivery 1874: failure: Sorry,_I_couldn't_find_any_host_named_avceit.cn._(#5.1.2)/
+@400000004faa62090d60b0b4 status: local 0/10 remote 9/20
+@400000004faa62090e5bbe3c bounce msg 851009 qp 19218
+@400000004faa62090e5bc224 end msg 851009
+@400000004faa62090e5e6204 new msg 851029
+@400000004faa62090e5e65ec info msg 851029: bytes 1015 from <> qp 19218 uid 508
+@400000004faa62090fbe4bdc starting delivery 1877: msg 851029 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa62090fbe4fc4 status: local 1/10 remote 9/20
+@400000004faa620910bf3564 delivery 1877: success: did_1+0+0/
+@400000004faa620910bf394c status: local 0/10 remote 9/20
+@400000004faa620910bf3d34 end msg 851029
+@400000004faa620936237194 new msg 850812
+@400000004faa620936237964 info msg 850812: bytes 442 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19229 uid 0
+@400000004faa620936988254 starting delivery 1878: msg 850812 to remote yuanpc@nova.gov.cn
+@400000004faa62093698863c status: local 0/10 remote 10/20
+@400000004faa620a372c65b4 starting delivery 1879: msg 850598 to remote zhou@szlib.szptt.net.cn
+@400000004faa620a372c6d84 status: local 0/10 remote 11/20
+@400000004faa620a372c6d84 new msg 851009
+@400000004faa620a372c716c info msg 851009: bytes 436 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19240 uid 0
+@400000004faa620a38bb0494 starting delivery 1880: msg 851009 to remote tangdy@dl.cn
+@400000004faa620a38bb087c status: local 0/10 remote 12/20
+@400000004faa620b3892fe7c new msg 851030
+@400000004faa620b3893064c info msg 851030: bytes 441 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19251 uid 0
+@400000004faa620b3b02c214 starting delivery 1881: msg 850569 to remote shenzhyc@online.sh.cn
+@400000004faa620b3b02c9e4 status: local 0/10 remote 13/20
+@400000004faa620b3b02c9e4 starting delivery 1882: msg 851030 to remote xqx8621@smmail.cn
+@400000004faa620b3b02cdcc status: local 0/10 remote 14/20
+@400000004faa620c1d566234 delivery 1880: success: 124.93.228.8_accepted_message./Remote_host_said:_250_Message_received/
+@400000004faa620c1d566a04 status: local 0/10 remote 13/20
+@400000004faa620c1d566dec end msg 851009
+@400000004faa620c2cbe856c delivery 1878: success: 183.60.61.225_accepted_message./Remote_host_said:_250_Ok:_queued_as_/
+@400000004faa620c2cbe8954 status: local 0/10 remote 12/20
+@400000004faa620c2cbe8d3c end msg 850812
+@400000004faa620c3047004c delivery 1881: deferral: Connected_to_61.129.163.90_but_my_name_was_rejected./Remote_host_said:_421_Cannot_reverse_lookup/
+@400000004faa620c3047081c status: local 0/10 remote 11/20
+@400000004faa620c39074fd4 new msg 850812
+@400000004faa620c3907923c info msg 850812: bytes 442 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19263 uid 0
+@400000004faa620c3a03cc8c starting delivery 1883: msg 850812 to remote zhaoyualiang@dl.cn
+@400000004faa620c3a03d074 status: local 0/10 remote 12/20
+@400000004faa620d237172bc delivery 1883: failure: 124.93.228.8_does_not_like_recipient./Remote_host_said:_550_Local_User<zhaoyualiang@dl.cn>not_found._______________/Giving_up_on_124.93.228.8./
+@400000004faa620d2371825c status: local 0/10 remote 11/20
+@400000004faa620d2371825c starting delivery 1884: msg 850549 to remote zhs@hisensoft.qd.sd.cn
+@400000004faa620d23718644 status: local 0/10 remote 12/20
+@400000004faa620d24c55e44 bounce msg 850812 qp 19271
+@400000004faa620d24c55e44 end msg 850812
+@400000004faa620d24dd85dc new msg 851027
+@400000004faa620d24dd85dc info msg 851027: bytes 1112 from <> qp 19271 uid 508
+@400000004faa620d269f4694 starting delivery 1885: msg 851027 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa620d269f4a7c status: local 1/10 remote 12/20
+@400000004faa620d27b006cc delivery 1885: success: did_1+0+0/
+@400000004faa620d27b00ab4 status: local 0/10 remote 12/20
+@400000004faa620d27b00ab4 end msg 851027
+@400000004faa620d3883f6d4 new msg 850812
+@400000004faa620d3883fabc info msg 850812: bytes 450 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19278 uid 0
+@400000004faa620d3ace38dc starting delivery 1886: msg 850812 to remote 020131@smail.tongji.ude.cn
+@400000004faa620d3ace3cc4 status: local 0/10 remote 13/20
+@400000004faa620e10190a54 delivery 1886: failure: Sorry,_I_couldn't_find_any_host_named_smail.tongji.ude.cn._(#5.1.2)/
+@400000004faa620e10194cbc status: local 0/10 remote 12/20
+@400000004faa620e101950a4 starting delivery 1887: msg 850548 to remote maz@hisensoft.qd.sd.cn
+@400000004faa620e101950a4 status: local 0/10 remote 13/20
+@400000004faa620e11af13a4 bounce msg 850812 qp 19281
+@400000004faa620e11af178c end msg 850812
+@400000004faa620e11c6878c new msg 851027
+@400000004faa620e11c68b74 info msg 851027: bytes 1053 from <> qp 19281 uid 508
+@400000004faa620e13d8e8e4 starting delivery 1888: msg 851027 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa620e13d8f0b4 status: local 1/10 remote 13/20
+@400000004faa620e14976e54 delivery 1888: success: did_1+0+0/
+@400000004faa620e1497723c status: local 0/10 remote 13/20
+@400000004faa620e1497723c end msg 851027
+@400000004faa620e3a3730cc new msg 850812
+@400000004faa620e3a37389c info msg 850812: bytes 445 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19293 uid 0
+@400000004faa620e3b73fe5c starting delivery 1889: msg 850812 to remote tianyi@cad.zju.edu.cn
+@400000004faa620e3b740244 status: local 0/10 remote 14/20
+@400000004faa620f3aacddcc new msg 851017
+@400000004faa620f3aace59c info msg 851017: bytes 438 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19304 uid 0
+@400000004faa6210018a284c starting delivery 1890: msg 851017 to remote hdl@seu.edu.cn
+@400000004faa6210018a301c status: local 0/10 remote 15/20
+@400000004faa62103b0f702c new msg 851031
+@400000004faa62103b0f77fc info msg 851031: bytes 441 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19315 uid 0
+@400000004faa62110178a7d4 starting delivery 1891: msg 850547 to remote xrbcs@public.cs.hn.cn
+@400000004faa62110178abbc status: local 0/10 remote 16/20
+@400000004faa62110178afa4 starting delivery 1892: msg 851031 to remote wfg2000@163.nx.cn
+@400000004faa62110178b38c status: local 0/10 remote 17/20
+@400000004faa621103ee10bc delivery 1875: deferral: CNAME_lookup_failed_temporarily._(#4.4.3)/
+@400000004faa621103ee14a4 status: local 0/10 remote 16/20
+@400000004faa62111fe5468c delivery 1891: deferral: Sorry,_I_wasn't_able_to_establish_an_SMTP_connection._(#4.4.1)/
+@400000004faa62111fe54e5c status: local 0/10 remote 15/20
+@400000004faa621200b10e2c starting delivery 1893: msg 850553 to remote shengkai@sea.csut.edu.cn
+@400000004faa621200b115fc status: local 0/10 remote 16/20
+@400000004faa621200b115fc new msg 851044
+@400000004faa621200b119e4 info msg 851044: bytes 437 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19327 uid 0
+@400000004faa621201510f1c starting delivery 1894: msg 851044 to remote slkdj@fuce.cn
+@400000004faa621201511304 status: local 0/10 remote 17/20
+@400000004faa621215c79984 delivery 1894: failure: Sorry,_I_couldn't_find_any_host_named_fuce.cn._(#5.1.2)/
+@400000004faa621215c7a154 status: local 0/10 remote 16/20
+@400000004faa621218456ac4 bounce msg 851044 qp 19331
+@400000004faa621218456eac end msg 851044
+@400000004faa62121847995c new msg 851049
+@400000004faa621218479d44 info msg 851049: bytes 1015 from <> qp 19331 uid 508
+@400000004faa621218e2990c starting delivery 1895: msg 851049 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa621218e29cf4 status: local 1/10 remote 16/20
+@400000004faa62121a1bff84 delivery 1895: success: did_1+0+0/
+@400000004faa62121a1c036c status: local 0/10 remote 16/20
+@400000004faa62121a1c0754 end msg 851049
+@400000004faa62122208c6b4 delivery 1892: failure: 202.100.100.180_does_not_like_recipient./Remote_host_said:_550_mailbox_wfg2000@163.nx.cn_unavailable_(__________)/Giving_up_on_202.100.100.180./
+@400000004faa62122208ce84 status: local 0/10 remote 15/20
+@400000004faa62122470ed14 bounce msg 851031 qp 19339
+@400000004faa62122470f0fc end msg 851031
+@400000004faa621224730c0c new msg 851046
+@400000004faa621224730ff4 info msg 851046: bytes 1111 from <> qp 19339 uid 508
+@400000004faa6212256df66c starting delivery 1896: msg 851046 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa6212256dfa54 status: local 1/10 remote 15/20
+@400000004faa621226917f3c delivery 1896: success: did_1+0+0/
+@400000004faa621226918324 status: local 0/10 remote 15/20
+@400000004faa62122691870c end msg 851046
+@400000004faa62130095d56c new msg 851031
+@400000004faa62130095dd3c info msg 851031: bytes 450 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19346 uid 0
+@400000004faa62130296d1a4 starting delivery 1897: msg 851031 to remote huangxiwei@tsinghua.org.cn
+@400000004faa62130296d974 status: local 0/10 remote 16/20
+@400000004faa6213141ee2f4 delivery 1897: success: 211.151.65.104_accepted_message./Remote_host_said:_250_Mail_OK_queued_as_aEGX06Cb7gQ6XqpP1ea5Ag==.3270S2/
+@400000004faa6213141eeeac status: local 0/10 remote 15/20
+@400000004faa6213141eeeac end msg 851031
+@400000004faa621402d063ec starting delivery 1898: msg 850621 to remote xiecy@mail.huptt.zj.cn
+@400000004faa621402d06fa4 status: local 0/10 remote 16/20
+@400000004faa621402d06fa4 new msg 851031
+@400000004faa621402d06fa4 info msg 851031: bytes 449 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19357 uid 0
+@400000004faa621403d36c6c starting delivery 1899: msg 851031 to remote dhcui04@mails.gscas.ac.cn
+@400000004faa621403d3743c status: local 0/10 remote 17/20
+@400000004faa6214175cc814 delivery 1899: failure: 210.76.203.2_does_not_like_recipient./Remote_host_said:_550_mailbox_dhcui04@mails.gscas.ac.cn_unavailable_(__________)/Giving_up_on_210.76.203.2./
+@400000004faa6214175cfec4 status: local 0/10 remote 16/20
+@400000004faa621418203754 bounce msg 851031 qp 19360
+@400000004faa621418203b3c end msg 851031
+@400000004faa621418222384 new msg 851046
+@400000004faa62141822276c info msg 851046: bytes 1129 from <> qp 19360 uid 508
+@400000004faa621418a99364 starting delivery 1900: msg 851046 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa621418a9974c status: local 1/10 remote 16/20
+@400000004faa621419ab01bc delivery 1900: success: did_1+0+0/
+@400000004faa621419ab05a4 status: local 0/10 remote 16/20
+@400000004faa621419ab05a4 end msg 851046
+@400000004faa621502545dec starting delivery 1901: msg 850629 to remote sabc@public9.sta.net.cn
+@400000004faa6215025465bc status: local 0/10 remote 17/20
+@400000004faa6215025465bc new msg 851031
+@400000004faa6215025465bc info msg 851031: bytes 444 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19371 uid 0
+@400000004faa6215038033bc starting delivery 1902: msg 851031 to remote murphy312@zju.edu.cn
+@400000004faa6215038037a4 status: local 0/10 remote 18/20
+@400000004faa62151b457fac delivery 1889: failure: 210.32.131.2_does_not_like_recipient./Remote_host_said:_553_sorry,_invalid_user./Giving_up_on_210.32.131.2./
+@400000004faa62151b45877c status: local 0/10 remote 17/20
+@400000004faa62151c0dc534 bounce msg 850812 qp 19375
+@400000004faa62151c0dc91c end msg 850812
+@400000004faa62151c0ff7b4 new msg 851029
+@400000004faa62151c0ffb9c info msg 851029: bytes 1083 from <> qp 19375 uid 508
+@400000004faa62151dd9d2a4 starting delivery 1903: msg 851029 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa62151dd9da74 status: local 1/10 remote 17/20
+@400000004faa62151e5b6e54 delivery 1903: success: did_1+0+0/
+@400000004faa62151e5b723c status: local 0/10 remote 17/20
+@400000004faa62151e5b723c end msg 851029
+@400000004faa62153234b6ec delivery 1890: failure: 58.192.112.17_does_not_like_recipient./Remote_host_said:_550_mailbox_hdl@seu.edu.cn_unavailable_(__________)/Giving_up_on_58.192.112.17./
+@400000004faa62153234bebc status: local 0/10 remote 16/20
+@400000004faa621533c32ad4 bounce msg 851017 qp 19383
+@400000004faa621533c32ebc end msg 851017
+@400000004faa621533c5325c new msg 851027
+@400000004faa621533c53644 info msg 851027: bytes 1098 from <> qp 19383 uid 508
+@400000004faa6215369efe7c starting delivery 1904: msg 851027 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa6215369f0264 status: local 1/10 remote 16/20
+@400000004faa6215379e5d7c delivery 1904: success: did_1+0+0/
+@400000004faa6215379e6164 status: local 0/10 remote 16/20
+@400000004faa6215379e6164 end msg 851027
+@400000004faa621601b37a6c new msg 850812
+@400000004faa621601b37e54 info msg 850812: bytes 443 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19389 uid 0
+@400000004faa621602f024d4 starting delivery 1905: msg 850812 to remote 19870307@nau.edu.cn
+@400000004faa621602f028bc status: local 0/10 remote 17/20
+@400000004faa62160ec0737c delivery 1872: failure: 166.111.8.45_does_not_like_recipient./Remote_host_said:_553_sorry,_invalid_user./Giving_up_on_166.111.8.45./
+@400000004faa62160ec07764 status: local 0/10 remote 16/20
+@400000004faa621610649dfc bounce msg 851028 qp 19392
+@400000004faa62161064a1e4 end msg 851028
+@400000004faa62161066c0dc new msg 851033
+@400000004faa62161066c4c4 info msg 851033: bytes 1103 from <> qp 19392 uid 508
+@400000004faa621611807224 starting delivery 1906: msg 851033 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa6216118079f4 status: local 1/10 remote 16/20
+@400000004faa621612899524 delivery 1906: success: did_1+0+0/
+@400000004faa62161289990c status: local 0/10 remote 16/20
+@400000004faa62161289990c end msg 851033
+@400000004faa62163704c914 delivery 1905: failure: 210.28.92.5_does_not_like_recipient./Remote_host_said:_550_mailbox_19870307@nau.edu.cn_unavailable_(__________)/Giving_up_on_210.28.92.5./
+@400000004faa62163704d4cc status: local 0/10 remote 15/20
+@400000004faa62163a1b4074 bounce msg 850812 qp 19400
+@400000004faa62163a1b445c end msg 850812
+@400000004faa62163a1da9a4 new msg 851028
+@400000004faa62163a1dad8c info msg 851028: bytes 1109 from <> qp 19400 uid 508
+@400000004faa62163b83e0c4 starting delivery 1907: msg 851028 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa62163b83e4ac status: local 1/10 remote 15/20
+@400000004faa6217018f40fc delivery 1907: success: did_1+0+0/
+@400000004faa6217018f48cc status: local 0/10 remote 15/20
+@400000004faa6217018f48cc end msg 851028
+@400000004faa621702bf4cec new msg 850812
+@400000004faa621702bf4cec info msg 850812: bytes 443 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19406 uid 0
+@400000004faa621704594ddc starting delivery 1908: msg 850812 to remote yewen@mx.cei.gov.cn
+@400000004faa6217045955ac status: local 0/10 remote 16/20
+@400000004faa62170d9d9a74 delivery 1893: deferral: CNAME_lookup_failed_temporarily._(#4.4.3)/
+@400000004faa62170d9d9e5c status: local 0/10 remote 15/20
+@400000004faa6217294c326c delivery 1908: success: 203.207.119.41_accepted_message./Remote_host_said:_250_OK:has_queued/
+@400000004faa6217294c3e24 status: local 0/10 remote 14/20
+@400000004faa6217294c420c end msg 850812
+@400000004faa621804aa8abc new msg 850812
+@400000004faa621804aa8ea4 info msg 850812: bytes 442 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19417 uid 0
+@400000004faa62180708be3c starting delivery 1909: msg 850812 to remote 123@dashengwang.cn
+@400000004faa62180708c224 status: local 0/10 remote 15/20
+@400000004faa621839a9a66c delivery 1909: failure: 223.7.210.240_does_not_like_recipient./Remote_host_said:_550_5.7.1_Unable_to_relay_for_123@dashengwang.cn/Giving_up_on_223.7.210.240./
+@400000004faa621839a9b60c status: local 0/10 remote 14/20
+@400000004faa62183b5b07bc bounce msg 850812 qp 19425
+@400000004faa62183b5b0ba4 end msg 850812
+@400000004faa62183b5dcac4 new msg 851028
+@400000004faa62183b5dceac info msg 851028: bytes 1103 from <> qp 19425 uid 508
+@400000004faa6219017aeddc starting delivery 1910: msg 851028 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa6219017af1c4 status: local 1/10 remote 14/20
+@400000004faa6219017af5ac starting delivery 1911: msg 850647 to remote james@sun.net.cn
+@400000004faa6219017af5ac status: local 1/10 remote 15/20
+@400000004faa621902bdca34 delivery 1910: success: did_1+0+0/
+@400000004faa621902bdce1c status: local 0/10 remote 15/20
+@400000004faa621902bdd204 end msg 851028
+@400000004faa621904a35ae4 new msg 850812
+@400000004faa621904a362b4 info msg 850812: bytes 443 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19432 uid 0
+@400000004faa6219079d8814 starting delivery 1912: msg 850812 to remote chenxinghong@zzy.cn
+@400000004faa6219079d8bfc status: local 0/10 remote 16/20
+@400000004faa621a05a52ecc starting delivery 1913: msg 850634 to remote dengml@cqzkb.edu.cn
+@400000004faa621a05a5369c status: local 0/10 remote 17/20
+@400000004faa621a05a53a84 new msg 851017
+@400000004faa621a05a53a84 info msg 851017: bytes 444 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19443 uid 0
+@400000004faa621a0785878c starting delivery 1914: msg 851017 to remote 07281065@bjtu.edu.cn
+@400000004faa621a07858b74 status: local 0/10 remote 18/20
+@400000004faa621a28804364 delivery 1914: success: 218.249.29.198_accepted_message./Remote_host_said:_250_OK:has_queued/
+@400000004faa621a28804b34 status: local 0/10 remote 17/20
+@400000004faa621a28804f1c end msg 851017
+@400000004faa621b05c9fcac new msg 851017
+@400000004faa621b05ca047c info msg 851017: bytes 450 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19456 uid 0
+@400000004faa621b0838937c starting delivery 1915: msg 851017 to remote jian.xu@baokeelectronic.cn
+@400000004faa621b08389b4c status: local 0/10 remote 18/20
+@400000004faa621c0714c074 starting delivery 1916: msg 850402 to remote liweim@public1.jd.jx.cn
+@400000004faa621c0714cc2c status: local 0/10 remote 19/20
+@400000004faa621c0714cc2c new msg 851029
+@400000004faa621c0714d014 info msg 851029: bytes 444 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19467 uid 0
+@400000004faa621c09544094 starting delivery 1917: msg 851029 to remote 07hsliang@stu.edu.cn
+@400000004faa621c0954447c status: local 0/10 remote 20/20
+@400000004faa621d076e3ab4 new msg 851037
+@400000004faa621d076e4284 info msg 851037: bytes 442 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19478 uid 0
+@400000004faa621d0a59b244 delivery 1917: failure: 202.104.245.181_does_not_like_recipient./Remote_host_said:_554_Service_unavailable;_Client_host_[phx1-ss-2-lb.cnet.com]_blocked_using_Barracuda_Reputation;_http://bbl.barracudacentral.com/q.cgi?ip=61.55.167.172/Giving_up_on_202.104.245.181./
+@400000004faa621d0a59bdfc status: local 0/10 remote 19/20
+@400000004faa621d0c1fdfcc bounce msg 851029 qp 19480
+@400000004faa621d0c1fe3b4 end msg 851029
+@400000004faa621d0c37c8e4 starting delivery 1918: msg 850564 to remote cyz@liaohe.net.cn
+@400000004faa621d0c37cccc status: local 0/10 remote 20/20
+@400000004faa621d0c37d0b4 new msg 851044
+@400000004faa621d0c37d0b4 info msg 851044: bytes 1214 from <> qp 19480 uid 508
+@400000004faa621d0db865d4 starting delivery 1919: msg 851044 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa621d0db869bc status: local 1/10 remote 20/20
+@400000004faa621d0ebbacd4 delivery 1919: success: did_1+0+0/
+@400000004faa621d0ebbb0bc status: local 0/10 remote 20/20
+@400000004faa621d0ebbb0bc end msg 851044
+@400000004faa621e041641cc delivery 1837: success: 59.61.216.10_accepted_message./Remote_host_said:_250_RCP:1c72a341_RCID:20120509202429671_00320~558a9dc3/
+@400000004faa621e0416499c status: local 0/10 remote 19/20
+@400000004faa621e0416499c end msg 850961
+@400000004faa621e042e2ecc starting delivery 1920: msg 851037 to remote 13322002083@189.cn
+@400000004faa621e042e32b4 status: local 0/10 remote 20/20
+@400000004faa621e082ebfdc new msg 850961
+@400000004faa621e082ec7ac info msg 850961: bytes 442 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19493 uid 0
+@400000004faa621f08a75adc new msg 851013
+@400000004faa621f08a762ac info msg 851013: bytes 448 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19503 uid 0
+@400000004faa621f228d15cc delivery 1912: failure: 174.36.142.83_does_not_like_recipient./Remote_host_said:_550_5.1.1_<chenxinghong@zzy.cn>:_Recipient_address_rejected:_User_unknown_in_virtual_mailbox_table/Giving_up_on_174.36.142.83./
+@400000004faa621f228d2184 status: local 0/10 remote 19/20
+@400000004faa621f236bfc4c bounce msg 850812 qp 19505
+@400000004faa621f236c0034 end msg 850812
+@400000004faa621f23839b2c starting delivery 1921: msg 850961 to remote 18915519876@189.cn
+@400000004faa621f2383a2fc status: local 0/10 remote 20/20
+@400000004faa621f2383a2fc new msg 851028
+@400000004faa621f2383a2fc info msg 851028: bytes 1155 from <> qp 19505 uid 508
+@400000004faa621f248c1e04 starting delivery 1922: msg 851028 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa621f248c21ec status: local 1/10 remote 20/20
+@400000004faa621f2554adc4 delivery 1922: success: did_1+0+0/
+@400000004faa621f2554b1ac status: local 0/10 remote 20/20
+@400000004faa621f2554b1ac end msg 851028
+@400000004faa6220094d1c74 new msg 850812
+@400000004faa6220094d2444 info msg 850812: bytes 448 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19517 uid 0
+@400000004faa622022413404 delivery 1916: deferral: CNAME_lookup_failed_temporarily._(#4.4.3)/
+@400000004faa622022413bd4 status: local 0/10 remote 19/20
+@400000004faa622022413bd4 starting delivery 1923: msg 851013 to remote charles_lee@online.sh.cn
+@400000004faa622022413fbc status: local 0/10 remote 20/20
+@400000004faa62210a6794f4 new msg 851027
+@400000004faa62210a679cc4 info msg 851027: bytes 442 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19528 uid 0
+@400000004faa62210d019124 delivery 1923: deferral: Connected_to_61.129.163.90_but_my_name_was_rejected./Remote_host_said:_421_Cannot_reverse_lookup/
+@400000004faa62210d0198f4 status: local 0/10 remote 19/20
+@400000004faa62210d0198f4 starting delivery 1924: msg 850812 to remote tiffany@mail.ustc.edu.cn
+@400000004faa62210d019cdc status: local 0/10 remote 20/20
+@400000004faa62220a3a762c new msg 851050
+@400000004faa62220a3a7a14 info msg 851050: bytes 454 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19539 uid 0
+@400000004faa62220c451ef4 delivery 1921: success: 121.14.53.136_accepted_message./Remote_host_said:_250_Ok:_queued_as_87CC9110004/
+@400000004faa62220c4526c4 status: local 0/10 remote 19/20
+@400000004faa62220c452aac end msg 850961
+@400000004faa62220c452aac starting delivery 1925: msg 851027 to remote zhangfeng@chica.cn
+@400000004faa62220c452e94 status: local 0/10 remote 20/20
+@400000004faa62221240dfdc delivery 1913: deferral: CNAME_lookup_failed_temporarily._(#4.4.3)/
+@400000004faa62221240e7ac status: local 0/10 remote 19/20
+@400000004faa62221240e7ac starting delivery 1926: msg 850662 to remote guozhen@szlib.szptt.net.cn
+@400000004faa62221240eb94 status: local 0/10 remote 20/20
+@400000004faa62230b0f0824 new msg 850961
+@400000004faa62230b0f0c0c info msg 850961: bytes 442 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19551 uid 0
+@400000004faa62240d8dcb94 new msg 851014
+@400000004faa62240d8dd364 info msg 851014: bytes 447 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19562 uid 0
+@400000004faa62250cf63acc new msg 851056
+@400000004faa62250cf6429c info msg 851056: bytes 441 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19572 uid 0
+@400000004faa622538c9394c delivery 1924: deferral: 202.141.160.8_failed_after_I_sent_the_message./Remote_host_said:_450_Requested_action_not_taken:_yia_0ZDrgzEcYqpPwNinAA--.50775S2,_please_try_again/
+@400000004faa622538c9411c status: local 0/10 remote 19/20
+@400000004faa622538c94504 starting delivery 1927: msg 851050 to remote z-wang04@mails.tsinghua.edu.cn
+@400000004faa622538c948ec status: local 0/10 remote 20/20
+@400000004faa62260d8d5664 new msg 851059
+@400000004faa62260d8d5e34 info msg 851059: bytes 445 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19582 uid 0
+@400000004faa62270fd4e504 new msg 851062
+@400000004faa62270fd4ecd4 info msg 851062: bytes 446 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19593 uid 0
+@400000004faa622809c64414 delivery 1920: success: 121.14.53.136_accepted_message./Remote_host_said:_250_Ok:_queued_as_07EA01D801D/
+@400000004faa622809c64fcc status: local 0/10 remote 19/20
+@400000004faa622809c64fcc end msg 851037
+@400000004faa622809e17504 starting delivery 1928: msg 850961 to remote 2006121146@yxnu.cn
+@400000004faa622809e178ec status: local 0/10 remote 20/20
+@400000004faa62280ea15e74 new msg 851037
+@400000004faa62280ea16644 info msg 851037: bytes 440 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19604 uid 0
+@400000004faa62290fcdb144 new msg 851048
+@400000004faa62290fcdb914 info msg 851048: bytes 441 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19614 uid 0
+@400000004faa62293addbd84 delivery 1925: failure: 222.73.10.245_does_not_like_recipient./Remote_host_said:_550_<zhangfeng@chica.cn>:_User_unknown_in_local_recipient_table/Giving_up_on_222.73.10.245./
+@400000004faa62293addc93c status: local 0/10 remote 19/20
+@400000004faa622a00e42064 bounce msg 851027 qp 19616
+@400000004faa622a00e4244c end msg 851027
+@400000004faa622a00e6666c new msg 851052
+@400000004faa622a00e6666c info msg 851052: bytes 1118 from <> qp 19616 uid 508
+@400000004faa622a01c3782c starting delivery 1929: msg 851052 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa622a01c37c14 status: local 1/10 remote 19/20
+@400000004faa622a01c37ffc starting delivery 1930: msg 851014 to remote dongbiao@amdocschina.cn
+@400000004faa622a01c37ffc status: local 1/10 remote 20/20
+@400000004faa622a02837884 delivery 1929: success: did_1+0+0/
+@400000004faa622a02837c6c status: local 0/10 remote 20/20
+@400000004faa622a02838054 end msg 851052
+@400000004faa622a0f9e3504 new msg 851027
+@400000004faa622a0f9e3cd4 info msg 851027: bytes 438 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19628 uid 0
+@400000004faa622b1977e7b4 new msg 851051
+@400000004faa622b1977f36c info msg 851051: bytes 445 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19638 uid 0
+@400000004faa622c11ed60dc new msg 851073
+@400000004faa622c11ed68ac info msg 851073: bytes 448 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19647 uid 0
+@400000004faa622d12cff4c4 delivery 1898: success: 202.96.111.18_accepted_message./Remote_host_said:_250_OK/
+@400000004faa622d12d0007c status: local 0/10 remote 19/20
+@400000004faa622d12d0007c end msg 850621
+@400000004faa622d12e889bc starting delivery 1931: msg 851056 to remote zhuxn@bupt.edu.cn
+@400000004faa622d12e88da4 status: local 0/10 remote 20/20
+@400000004faa622d13b7b0fc new msg 851077
+@400000004faa622d13b7b4e4 info msg 851077: bytes 449 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19657 uid 0
+@400000004faa622e09fa0de4 delivery 1931: deferral: 211.68.71.7_does_not_like_recipient./Remote_host_said:_450_4.2.0_<zhuxn@bupt.edu.cn>:_Recipient_address_rejected:_AnyGreyd_help:_http://mail.anymacro.com/Giving_up_on_211.68.71.7./
+@400000004faa622e09fa1d84 status: local 0/10 remote 19/20
+@400000004faa622e09fa1d84 starting delivery 1932: msg 851059 to remote guolihong@njit.edu.cn
+@400000004faa622e09fa216c status: local 0/10 remote 20/20
+@400000004faa622e13eccea4 new msg 850621
+@400000004faa622e13ecd674 info msg 850621: bytes 451 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19666 uid 0
+@400000004faa622e296aaf1c delivery 1840: deferral: Sorry,_I_wasn't_able_to_establish_an_SMTP_connection._(#4.4.1)/
+@400000004faa622e296ab6ec status: local 0/10 remote 19/20
+@400000004faa622e296abad4 starting delivery 1933: msg 851062 to remote fulian@mail.dhu.edu.cn
+@400000004faa622e296abad4 status: local 0/10 remote 20/20
+@400000004faa622f135447c4 new msg 851080
+@400000004faa622f13544bac info msg 851080: bytes 441 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19676 uid 0
+@400000004faa622f274ea134 delivery 1915: failure: 125.77.194.242_does_not_like_recipient./Remote_host_said:_550_RC:LD_The_email_account_that_you_tried_to_reach_does_no_exists./Giving_up_on_125.77.194.242./
+@400000004faa622f274eacec status: local 0/10 remote 19/20
+@400000004faa622f28321b94 bounce msg 851017 qp 19683
+@400000004faa622f28321f7c end msg 851017
+@400000004faa622f28342ed4 new msg 851033
+@400000004faa622f283432bc info msg 851033: bytes 1140 from <> qp 19683 uid 508
+@400000004faa622f2a48266c starting delivery 1934: msg 851033 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa622f2a482a54 status: local 1/10 remote 19/20
+@400000004faa622f2a482e3c starting delivery 1935: msg 851037 to remote hucm@buaa.edu.cn
+@400000004faa622f2a483224 status: local 1/10 remote 20/20
+@400000004faa622f2b408474 delivery 1934: success: did_1+0+0/
+@400000004faa622f2b40885c status: local 0/10 remote 20/20
+@400000004faa622f2b408c44 end msg 851033
+@400000004faa6230028eabb4 delivery 1932: failure: 202.119.160.124_does_not_like_recipient./Remote_host_said:_554_Service_unavailable;_Client_host_[phx1-ss-2-lb.cnet.com]_blocked_using_Barracuda_Reputation;_http://bbl.barracudacentral.com/q.cgi?ip=61.55.167.172/Giving_up_on_202.119.160.124./
+@400000004faa6230028eb76c status: local 0/10 remote 19/20
+@400000004faa623003bcac34 bounce msg 851059 qp 19687
+@400000004faa623003bcb01c end msg 851059
+@400000004faa623003d50694 starting delivery 1936: msg 850702 to remote cjcjc@online.sh.cn
+@400000004faa623003d50e64 status: local 0/10 remote 20/20
+@400000004faa623003d50e64 new msg 851032
+@400000004faa623003d50e64 info msg 851032: bytes 1216 from <> qp 19687 uid 508
+@400000004faa6230051260c4 starting delivery 1937: msg 851032 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa6230051264ac status: local 1/10 remote 20/20
+@400000004faa623006472b8c delivery 1937: success: did_1+0+0/
+@400000004faa623006472f74 status: local 0/10 remote 20/20
+@400000004faa62300647335c end msg 851032
+@400000004faa6230124832dc delivery 1935: success: 219.239.227.27_accepted_message./Remote_host_said:_250_OK:has_queued/
+@400000004faa623012483aac status: local 0/10 remote 19/20
+@400000004faa623012483e94 end msg 851037
+@400000004faa6230125e56d4 starting delivery 1938: msg 851048 to remote huang_yi@szpst.cn
+@400000004faa6230125e5abc status: local 0/10 remote 20/20
+@400000004faa62301418766c new msg 851017
+@400000004faa623014187e3c info msg 851017: bytes 448 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19694 uid 0
+@400000004faa623039333a04 delivery 1938: failure: 110.75.167.95_does_not_like_recipient./Remote_host_said:_503_RCPT_account_isn't_a_local_account_met_at_MTA/Giving_up_on_110.75.167.95./
+@400000004faa6230393345bc status: local 0/10 remote 19/20
+@400000004faa62303b1d6664 bounce msg 851048 qp 19702
+@400000004faa62303b1d6a4c end msg 851048
+@400000004faa62303b1fcf94 new msg 851049
+@400000004faa62303b1fd37c info msg 851049: bytes 1102 from <> qp 19702 uid 508
+@400000004faa623102632afc starting delivery 1939: msg 851027 to remote dzm@pku.edu.cn
+@400000004faa623102632ee4 status: local 0/10 remote 20/20
+@400000004faa6231026332cc starting delivery 1940: msg 851049 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa6231026336b4 status: local 1/10 remote 20/20
+@400000004faa623103a6e9e4 delivery 1940: success: did_1+0+0/
+@400000004faa623103a6edcc status: local 0/10 remote 20/20
+@400000004faa623103a6edcc end msg 851049
+@400000004faa62310a0135ec delivery 1933: success: 202.101.6.180_accepted_message./Remote_host_said:_250_OK:has_queued/
+@400000004faa62310a0139d4 status: local 0/10 remote 19/20
+@400000004faa62310a013dbc end msg 851062
+@400000004faa62310a18ccfc starting delivery 1941: msg 851051 to remote hli@home.swjtu.edu.cn
+@400000004faa62310a18d0e4 status: local 0/10 remote 20/20
+@400000004faa62310c7287f4 delivery 1902: deferral: 210.32.157.174_failed_after_I_sent_the_message./Remote_host_said:_450_Requested_action_not_taken:_AQAAf5Dbf+rUYqpP_GRUAA--.852S2,_please_try_again/
+@400000004faa62310c728fc4 status: local 0/10 remote 19/20
+@400000004faa62310c7293ac starting delivery 1942: msg 850686 to remote echoh@public6.sta.net.cn
+@400000004faa62310c7293ac status: local 0/10 remote 20/20
+@400000004faa62311425a954 new msg 851032
+@400000004faa62311425b124 info msg 851032: bytes 445 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19711 uid 0
+@400000004faa62311e24c624 delivery 1930: success: 165.160.10.151_accepted_message./Remote_host_said:_250_2.0.0_Ok:_queued_as_C1D711F8AE/
+@400000004faa62311e24cdf4 status: local 0/10 remote 19/20
+@400000004faa62311e24d1dc end msg 851014
+@400000004faa62311e3bc4dc starting delivery 1943: msg 851073 to remote zhenxiajIuyou@bit.edu.cn
+@400000004faa62311e3bc8c4 status: local 0/10 remote 20/20
+@400000004faa623216e2c5b4 new msg 851014
+@400000004faa623216e2cd84 info msg 851014: bytes 447 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19722 uid 0
+@400000004faa62322fb15f9c delivery 1943: success: 219.143.204.7_accepted_message./Remote_host_said:_250_OK:has_queued/
+@400000004faa62322fb18a94 status: local 0/10 remote 19/20
+@400000004faa62322fb18a94 end msg 851073
+@400000004faa62322fcb5424 starting delivery 1944: msg 850715 to remote zwyang@utstar.hz.zj.cn
+@400000004faa62322fcb580c status: local 0/10 remote 20/20
+@400000004faa623315f0dc04 new msg 851048
+@400000004faa623315f0e3d4 info msg 851048: bytes 446 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19733 uid 0
+@400000004faa623416429db4 new msg 851062
+@400000004faa62341642a584 info msg 851062: bytes 441 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19743 uid 0
+@400000004faa62342d12b81c delivery 1936: deferral: Connected_to_61.129.163.90_but_my_name_was_rejected./Remote_host_said:_421_Cannot_reverse_lookup/
+@400000004faa62342d12c3d4 status: local 0/10 remote 19/20
+@400000004faa62342d12c3d4 starting delivery 1945: msg 851077 to remote dagulaalilang@sjtu.edu.cn
+@400000004faa62342d12c7bc status: local 0/10 remote 20/20
+@400000004faa6235188c2c0c new msg 851065
+@400000004faa6235188c33dc info msg 851065: bytes 439 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19755 uid 0
+@400000004faa62352038d52c delivery 1941: deferral: 202.115.64.9_failed_after_I_sent_the_message./Remote_host_said:_450_Requested_action_not_taken:_wKj++0A55qEcYapPAAAAAAAk9AAAAAAA.37234S2,_please_try_again/
+@400000004faa62352038e0e4 status: local 0/10 remote 19/20
+@400000004faa62352038e0e4 starting delivery 1946: msg 850621 to remote zjsteelstr@mail.sxptt.zj.cn
+@400000004faa62352038e4cc status: local 0/10 remote 20/20
+@400000004faa6235359d940c delivery 1927: failure: 166.111.8.45_does_not_like_recipient./Remote_host_said:_553_sorry,_invalid_user./Giving_up_on_166.111.8.45./
+@400000004faa6235359d9fc4 status: local 0/10 remote 19/20
+@400000004faa623537db2414 bounce msg 851050 qp 19762
+@400000004faa623537db27fc end msg 851050
+@400000004faa623537f2e234 starting delivery 1947: msg 851080 to remote youyi@cqut.edu.cn
+@400000004faa623537f2e61c status: local 0/10 remote 20/20
+@400000004faa623537f2e61c new msg 851055
+@400000004faa623537f2ea04 info msg 851055: bytes 1101 from <> qp 19762 uid 508
+@400000004faa623538b7dbfc starting delivery 1948: msg 851055 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa623538b7dfe4 status: local 1/10 remote 20/20
+@400000004faa62353a07107c delivery 1948: success: did_1+0+0/
+@400000004faa62353a071464 status: local 0/10 remote 20/20
+@400000004faa62353a071464 end msg 851055
+@400000004faa623617278f14 new msg 851050
+@400000004faa6236172796e4 info msg 851050: bytes 444 from <dataguru@phx1-ss-2-lb.cnet.com> qp 19769 uid 0
+@400000004faa623636faeda4 delivery 1946: failure: 60.191.88.145_does_not_like_recipient./Remote_host_said:_550_#2175041_unavailable_mail_user/Giving_up_on_60.191.88.145./
+@400000004faa623636faf574 status: local 0/10 remote 19/20
+@400000004faa623638d67fbc bounce msg 850621 qp 19776
+@400000004faa623638d683a4 end msg 850621
+@400000004faa623638eeda1c starting delivery 1949: msg 851017 to remote liuliang1945@buaa.edu.cn
+@400000004faa623638eede04 status: local 0/10 remote 20/20
+@400000004faa623638eee1ec new msg 851078
+@400000004faa623638eee1ec info msg 851078: bytes 1107 from <> qp 19776 uid 508
+@400000004faa62363a92ca04 starting delivery 1950: msg 851078 to local dataguru@phx1-ss-2-lb.cnet.com
+@400000004faa62363a92d1d4 status: local 1/10 remote 20/20
+@400000004faa6237009e8fcc delivery 1950: success: did_1+0+0/
+@400000004faa6237009e93b4 status: local 0/10 remote 20/20
+@400000004faa6237009e979c end msg 851078

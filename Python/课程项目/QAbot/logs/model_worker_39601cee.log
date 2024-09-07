@@ -1,0 +1,4 @@
+2023-11-26 21:38:18 | ERROR | stderr | [32mINFO[0m:     Started server process [[36m65276[0m]
+2023-11-26 21:38:18 | ERROR | stderr | [32mINFO[0m:     Waiting for application startup.
+2023-11-26 21:38:18 | ERROR | stderr | [32mINFO[0m:     Application startup complete.
+2023-11-26 21:38:18 | ERROR | stderr | [32mINFO[0m:     Uvicorn running on [1mhttp://localhost:20000[0m (Press CTRL+C to quit)

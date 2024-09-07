@@ -1,0 +1,67 @@
+#1、调用make_sentence.py模块把生成的句子写到一个文本文件，写多次得到大约2G的文件
+import makesentence, random
+
+file_path = "output.txt" 
+total_iterations = 100000000
+
+with open(file_path, "w", encoding='utf-8') as f:
+  random.seed()
+  for _ in range(total_iterations):
+    f.write(" ".join(makesentence.sentence()) + '\n')
+
+#2、通过三种方式访问生成文件，从文件中统计cat出现的次数
+#3、对三种形式通过装饰器计算每种方式的运行时间
+
+# 定义装饰器
+import time
+
+def measure_time(func):
+  def wrapper(*args, **kwargs):
+    start_time = time.time()
+    func(*args, **kwargs)
+    end_time = time.time()
+    execution_time = end_time - start_time
+    print(f"运行时间：{execution_time}秒\n")
+    return 
+  
+  return wrapper
+
+# 1)磁盘文件检索方式
+@measure_time
+def search_in_file(file_path, keyword):
+    count = 0
+    with open(file_path, 'r', encoding='utf-8') as file:
+        while True:
+          line = file.readline()
+          if not line:
+            break
+          pos = line.find(keyword)
+          while pos != -1:
+            count += 1
+            pos = line.find(keyword, pos + len(keyword))
+    print(f"方式一\ncat出现次数：{count}")
+    return
+
+# 2）按行读取文件，一行一行读入内存处理
+@measure_time
+def process_file_line_by_line(file_path, keyword):
+    count = 0
+    with open(file_path, "r", encoding="utf-8") as file:
+        for line in file:
+           count += line.count(keyword)
+    print(f"方式二\ncat出现次数：{count}")
+    return
+
+# 3）一次性读入内存处理
+@measure_time
+def process_file_in_memory(file_path, keyword):
+    with open(file_path, "r", encoding="utf-8") as file:
+        content = file.read()
+        count = content.count(keyword)
+    print(f"方式三\ncat出现次数：{count}")
+    return
+
+key_word = "cat"
+search_in_file(file_path, key_word)
+process_file_line_by_line(file_path, key_word)
+process_file_in_memory(file_path, key_word)

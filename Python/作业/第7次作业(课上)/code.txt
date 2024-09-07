@@ -1,0 +1,20 @@
+# 去掉 eat 函数，修改 move 函数如下
+
+def move(self, screen, balls):
+    """移动"""
+    self.x += self.sx
+    self.y += self.sy
+    if self.x - self.radius <= 0 or self.x + self.radius >= screen.get_width():
+        self.sx = -self.sx
+    if self.y - self.radius <= 0 or self.y + self.radius >= screen.get_height():
+        self.sy = -self.sy
+
+    # 判断是否和其他球相撞
+    for ball in balls:
+        if ball != self and ball.alive:
+            dx, dy = self.x - ball.x, self.y - ball.y
+            distance = sqrt(dx ** 2 + dy ** 2)
+            if distance < self.radius + ball.radius:
+                self.sx = -self.sx
+                self.sy = -self.sy
+                break

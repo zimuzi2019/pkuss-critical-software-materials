@@ -1,0 +1,15 @@
+2023-11-26 16:26:01 | ERROR | stderr | Process controller:
+2023-11-26 16:26:01 | ERROR | stderr | Traceback (most recent call last):
+2023-11-26 16:26:01 | ERROR | stderr |   File "C:\ProgramData\anaconda3\envs\chatchat\lib\multiprocessing\process.py", line 314, in _bootstrap
+2023-11-26 16:26:01 | ERROR | stderr |     self.run()
+2023-11-26 16:26:01 | ERROR | stderr |   File "C:\ProgramData\anaconda3\envs\chatchat\lib\multiprocessing\process.py", line 108, in run
+2023-11-26 16:26:01 | ERROR | stderr |     self._target(*self._args, **self._kwargs)
+2023-11-26 16:26:01 | ERROR | stderr |   File "D:\WORKSPACE\Python\Big Work\Langchain-Chatchat-master\startup.py", line 219, in run_controller
+2023-11-26 16:26:01 | ERROR | stderr |     app = create_controller_app(
+2023-11-26 16:26:01 | ERROR | stderr |   File "D:\WORKSPACE\Python\Big Work\Langchain-Chatchat-master\startup.py", line 54, in create_controller_app
+2023-11-26 16:26:01 | ERROR | stderr |     MakeFastAPIOffline(app)
+2023-11-26 16:26:01 | ERROR | stderr |   File "D:\WORKSPACE\Python\Big Work\Langchain-Chatchat-master\server\utils.py", line 202, in MakeFastAPIOffline
+2023-11-26 16:26:01 | ERROR | stderr |     StaticFiles(directory=Path(static_dir).as_posix()),
+2023-11-26 16:26:01 | ERROR | stderr |   File "C:\ProgramData\anaconda3\envs\chatchat\lib\site-packages\starlette\staticfiles.py", line 57, in __init__
+2023-11-26 16:26:01 | ERROR | stderr |     raise RuntimeError(f"Directory '{directory}' does not exist")
+2023-11-26 16:26:01 | ERROR | stderr | RuntimeError: Directory 'D:/WORKSPACE/Python/Big Work/Langchain-Chatchat-master/server/static' does not exist

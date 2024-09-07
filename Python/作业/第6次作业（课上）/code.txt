@@ -1,0 +1,35 @@
+import threading
+
+# 定义全局表
+result_table = [0] * 10000
+
+#定义锁
+lock = threading.Lock()
+
+# squ
+def squ(index, elem):
+    global result_table
+    with lock:
+        result_table[index-1] = elem * elem
+
+# 子线程代码
+def sub_thread(start, end):
+    for i in range(start, end + 1):
+        squ(i, i)
+
+
+# 创建子线程
+threads = []
+for i in range(10):
+    start = i * 1000 + 1
+    end = (i + 1) * 1000
+    t = threading.Thread(target=sub_thread, args=(start, end))
+    threads.append(t)
+    t.start()
+
+# 等待子线程结束
+for t in threads:
+    t.join()
+
+# 打印结果
+print(result_table)

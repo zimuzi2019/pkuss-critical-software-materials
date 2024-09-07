@@ -1,0 +1,22 @@
+import random
+import string
+
+def generate_password(length=10):
+    # 可用的字符集合
+    chars = string.ascii_letters + string.digits + string.punctuation
+
+    # 生成密码
+    password = random.choices(chars, k=length-2)  # 随机选择length-2个字符
+    password.append(random.choice(string.digits))  # 添加一位数字
+    password.append(random.choice(string.punctuation))  # 添加一位特殊字符
+
+    # 打乱密码中字符的顺序
+    random.shuffle(password)
+
+    # 将字符列表转换为字符串
+    password = ''.join(password)
+    return password
+
+# 生成一个长度为10的初始密码
+initial_password = generate_password(10)
+print("初始密码:", initial_password)

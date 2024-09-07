@@ -1,0 +1,41 @@
+import random
+import time
+
+# 用于计算函数执行时间的装饰器
+def calculate_time(func):
+    def wrapper(*args, **kwargs):
+        start_time = time.time()
+        func(*args, **kwargs)
+        end_time = time.time()
+        print(f"delete all objects took {end_time - start_time} seconds to execute")
+    return wrapper
+
+# 定义 Cylinder 类
+class Cylinder:
+    def __init__(self, radius, height, number):
+        self.radius = radius # 半径
+        self.height = height # 高
+        self.number = number # 编号
+
+    def PrintInfo(self):
+        print(f"Cylinder {self.number}: radius={self.radius}, height={self.height}")
+
+    def GetVolume(self):
+        return 3.14 * self.radius**2 * self.height
+
+# 创建10个对象并放入列表中
+cylinder_objects = []
+for i in range(10):
+    cylinder = Cylinder(random.uniform(1, 5), random.uniform(1, 10), i)
+    cylinder_objects.append(cylinder)
+
+# 随机删除对象并打印编号
+@calculate_time
+def delete_objects():
+    while cylinder_objects:
+        index_to_delete = random.randint(0, len(cylinder_objects)-1)
+        deleted_cylinder = cylinder_objects.pop(index_to_delete)
+        print(f"Deleted cylinder number: {deleted_cylinder.number}")
+
+# 执行删除对象操作
+delete_objects()
